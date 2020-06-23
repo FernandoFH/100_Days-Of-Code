@@ -1,4 +1,5 @@
 # 100 Days of code
+# Daily Exercises
 
   * JavaScript | Node.js 
   * Typescript
