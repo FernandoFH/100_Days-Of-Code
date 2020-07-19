@@ -1,8 +1,5 @@
-# 100 Days of code
-# Daily Exercises
+# _100 Days of Code Challenge_
 
-_100 Days of Code Challenge_
- 
  Overview
  				
  
@@ -108,8 +105,6 @@ _100 Days of Code Challenge_
 |98  |        	|            	|          | 	       | 
 |99  |        	|            	|          | 	       | 
 |100  |        	|            	|          | 	       | 
- 
-
  
   * JavaScript | Node.js 
   * Typescript
