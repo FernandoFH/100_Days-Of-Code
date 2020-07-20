@@ -108,11 +108,14 @@
 |99  |        	|            	|          | 	       | 
 |100  |        	|            	|          | 	       | 
  
+  * HTML | CSS
   * JavaScript | Node.js 
+    * React + React Native
   * Typescript
   * Python
   * Go 
   * C++ 
   * Rust 
   * Perl
-  * PL/SQL 
+  * PL/SQL
+  * Swift
