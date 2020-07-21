@@ -7,7 +7,8 @@
  
 |Day | Project	|Description	| Language | 	Status | 
 |--- | -------- |-------------|--------- | ------- | 
-|01  |        	|            	|          | 	       | 
+|00  |Hello worlds |Set up env| Python / Node (js & ts) / GO / C++ / Rust|Done| 
+|01  |        	|            	|          | 	       |
 |02  |        	|            	|          | 	       | 
 |03  |        	|            	|          | 	       | 
 |04  |        	|            	|          | 	       | 
