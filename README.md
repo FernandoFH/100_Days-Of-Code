@@ -5,10 +5,10 @@
 [Inspiration](https://github.com/SeshanPillay25/100-days-of-code)
  				
  
-|Day | Project	|Description	| Language | 	Status | 
-|--- | -------- |-------------|--------- | ------- | 
-|00  |Hello worlds |Set up env| Python / Node (js & ts) / GO / C++ / Rust|Done| 
-|01  |        	|            	|          | 	       |
+|Day | Project	|Description	| Language | 	Status | Reference |
+|--- | -------- |-------------|--------- | ------- | --------- | 
+|00  |Hello worlds | Setup Env | Python / Node (js & ts) / GO / C++ / Rust|Done| - |
+|01  |Basic concepts, Function, Pointers, OOP. |C ++ Beginners - FreeCodeCamp|C++ |Done| [Video](https://www.youtube.com/watch?v=vLnPwxZdW4Y) |
 |02  |        	|            	|          | 	       | 
 |03  |        	|            	|          | 	       | 
 |04  |        	|            	|          | 	       | 
