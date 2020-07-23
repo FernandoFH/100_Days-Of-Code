@@ -38,8 +38,25 @@ funciones
   fmax 
   fmin 
 ```
+# Logic 
 
+```cpp
+    || = OR
+    && = AND  
+```
+# if 
 
+```cpp
+if(){
+
+} else if(){
+
+} else if(){
+
+} else {
+
+}
+```
 
 
 
