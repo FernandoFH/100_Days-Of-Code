@@ -49,14 +49,38 @@ funciones
 ```cpp
 if(){
 
-} else if(){
+} else if(Exp){
 
-} else if(){
+} else if(Exp){
 
 } else {
 
 }
 ```
+# Switch 
 
+```cpp
+switch(Exp){
+        case 0:
+            break;
+        default:
+    }
+```
+# Loops 
 
+```cpp
+while(Exp){
+
+}
+```
+```cpp
+do{
+
+}while(Exp)
+```
+```cpp
+for (int i = 1; i <= 5; i++){
+
+}
+```
 
