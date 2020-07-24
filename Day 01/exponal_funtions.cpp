@@ -11,9 +11,7 @@ int power(int baseNum, int powNum){
     return result;
 }
 
-
 int main(){
-
     cout << power(2, 3);
 
     return 0;
