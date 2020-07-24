@@ -41,8 +41,9 @@ funciones
 # Logic 
 
 ```cpp
-    || = OR
-    && = AND  
+    ||   OR
+    &&   AND 
+    !    NOT 
 ```
 # if 
 

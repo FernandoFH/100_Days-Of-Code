@@ -1,14 +1,11 @@
 # _100 Days of Code Challenge_
 
- Overview
-
 [Inspiration](https://github.com/SeshanPillay25/100-days-of-code)
  				
- 
 |Day | Project	|Description	| Language | 	Status | Reference |
 |--- | -------- |-------------|--------- | ------- | --------- | 
 |00  |Hello worlds | Setup Env | Python / Node (js & ts) / GO / C++ / Rust|Done| - |
-|01  |Basic concepts, Function, Pointers, OOP. |C ++ Beginners - FreeCodeCamp|C++ |Done| [Video](https://www.youtube.com/watch?v=vLnPwxZdW4Y) |
+|01  |Basic concepts, Function, Loops, Pointers, OOP. |C ++ Beginners - FreeCodeCamp|C++ |Done| [Video](https://www.youtube.com/watch?v=vLnPwxZdW4Y) |
 |02  |        	|            	|          | 	       | 
 |03  |        	|            	|          | 	       | 
 |04  |        	|            	|          | 	       | 
@@ -108,15 +105,4 @@
 |98  |        	|            	|          | 	       | 
 |99  |        	|            	|          | 	       | 
 |100  |        	|            	|          | 	       | 
- 
-  * HTML | CSS
-  * JavaScript | Node.js 
-    * React + React Native
-  * Typescript
-  * Python
-  * Go 
-  * C++ 
-  * Rust 
-  * Perl
-  * PL/SQL
-  * Swift
+
