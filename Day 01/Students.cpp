@@ -31,6 +31,5 @@ int main(){
     cout << student1.hasHonors();
     cout << student2.hasHonors();
 
-
     return 0;
 }
