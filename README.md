@@ -3,11 +3,11 @@
 [Inspiration](https://github.com/SeshanPillay25/100-days-of-code)
  				
 |Day | Project	|Description	| Language | 	Status | Reference |
-|--- | -------- |-------------|--------- | ------- | --------- | 
+|--- | -------- |---------------|--------- | --------- | --------- | 
 |00  |Hello worlds | Setup Env | Python / Node (js & ts) / GO / C++ / Rust|Done| - |
 |01  |Basic concepts, Function, Loops, Pointers, OOP. |C ++ Beginners - FreeCodeCamp|C++ |Done| [Video](https://www.youtube.com/watch?v=vLnPwxZdW4Y) |
-|02  |        	|            	|          | 	       | 
-|03  |        	|            	|          | 	       | 
+|02  | Sort Algorithm / Data Structure|            	|C ++      | 	       | [Video](https://www.youtube.com/watch?v=Vv-gs437i2g&list=PLk6CEY9XxSICqQ9wicEpRh3jYNTtSHVOy) - [Video](https://www.youtube.com/watch?v=7tLVMUKLu2s&list=PLk6CEY9XxSIBG2Gv6-d1WE3Uxqx94o5B2)|
+|03  |Space invaders |            	| C++| 	       | | |
 |04  |        	|            	|          | 	       | 
 |05  |        	|            	|          | 	       | 
 |06  |        	|            	|          | 	       | 
