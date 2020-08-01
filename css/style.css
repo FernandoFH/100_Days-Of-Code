@@ -1,0 +1,21 @@
+#home {
+    background-color: aquamarine;
+}
+
+.banner{
+    display: flex;
+    width: 400px;
+    height: 20px;
+    color: white;
+}
+
+.banner h1{
+    margin: 0;
+}
+
+ul {
+    font-size: 22px;
+    list-style: none;
+    padding-left: 10px;
+    margin: 0;
+}
