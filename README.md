@@ -9,38 +9,16 @@
 |02  | Sort Algorithm |            	|C ++      | 	  | [Video](https://www.youtube.com/watch?v=Vv-gs437i2g&list=PLk6CEY9XxSICqQ9wicEpRh3jYNTtSHVOy) |
 |03  | Data Structure |            	|C ++      | 	     | [Video](https://www.youtube.com/watch?v=7tLVMUKLu2s&list=PLk6CEY9XxSIBG2Gv6-d1WE3Uxqx94o5B2) |
 |04  | Design Patterns (ES) |            	|   -  | 	| [Video](https://www.youtube.com/watch?v=3qTmBcxGlWk&list=PLJkcleqxxobUJlz1Cm8WYd-F_kckkDvc8) |
-
-
-C++ Lambdas
-https://www.youtube.com/playlist?list=PLs3KjaCtOwSaJfzcaQ5RpcDIx9PTe2bBP
-
-
-(ES)
-Space Invaders C++
-https://www.youtube.com/playlist?list=PLDvxKtjp8t2l-3bihUrliFg_Z5q86xJSk
-
-(ES)
-Spaceship C++
-https://www.youtube.com/playlist?list=PLpOqH6AE0tNj8W0EGpoGG2CEMDJTt4ihZ
-
-(ES)
-Snake   C++
-https://www.youtube.com/playlist?list=PL5C49018FA0EF2EC6
-
-(ES)
-PONG  C++
-https://www.youtube.com/playlist?list=PL6hPvfzEEMDYe_i-Eimz5IAUUd5dzZ8sL
-
-|05  |        	|            	|          | 	       | 
-|06  |        	|            	|          | 	       | 
-|07  |        	|            	|          | 	       | 
-|08  |        	|            	|          | 	       | 
-|09  |        	|            	|          | 	       | 
-|10  |        	|            	|          | 	       | 
-|11  |        	|            	|          | 	       | 
-|12  |        	|            	|          | 	       | 
-|13  |        	|            	|          | 	       | 
-|14  |        	|            	|          | 	       | 
+|05 | Smart Pointer | Introduction In C++ |  C++  | 	| [Video](https://www.youtube.com/watch?v=wUzn0HljjRE&list=PLk6CEY9XxSIAI2K-sxrKzzSyT6UZR5ObP) |
+|06 | Digit Separator | C++ / C++14 |  C++  | 	| [Video](https://www.youtube.com/watch?v=1EAL_RRCKhY&list=PLk6CEY9XxSIAloDTEauOy_ss9fEqSP4JR) |
+|07 | STL |  |  C++  | 	| [Video](https://www.youtube.com/watch?v=LyGlTmaWEPs&list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA) |
+|08 | Threads |  |  C++  | 	| [Video](https://www.youtube.com/watch?v=TPVH_coGAQs&list=PLk6CEY9XxSIAeK-EAh3hB4fgNvYkYmghp) |
+|09 | Lambdas |  |  C++  | 	| [Video](https://www.youtube.com/playlist?list=PLs3KjaCtOwSaJfzcaQ5RpcDIx9PTe2bBP) |
+|10 | Modern C++ (2018) |  |  C++  | 	| [Video](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C) |
+|11 | Space Invaders (ES)|  |  C++  | 	| [Video](https://www.youtube.com/playlist?list=PLDvxKtjp8t2l-3bihUrliFg_Z5q86xJSk) |
+|12 | Spaceship (ES)|  |  C++  | 	| [Video](https://www.youtube.com/playlist?list=PLpOqH6AE0tNj8W0EGpoGG2CEMDJTt4ihZ) |
+|13 | Snake (ES)|  |  C++  | 	| [Video](https://www.youtube.com/playlist?list=PL5C49018FA0EF2EC6) |
+|14 | PONG (ES)|  |  C++  | 	| [Video](https://www.youtube.com/playlist?list=PL6hPvfzEEMDYe_i-Eimz5IAUUd5dzZ8sL) |
 |15  |        	|            	|          | 	       | 
 |16  |        	|            	|          | 	       | 
 |17  |        	|            	|          | 	       | 
