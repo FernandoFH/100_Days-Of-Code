@@ -5,10 +5,32 @@
 |Day | Project	|Description	| Language | 	Status | Reference |
 |--- | -------- |---------------|--------- | --------- | --------- | 
 |00  |Hello worlds | Setup Env | Python / Node (js & ts) / GO / C++ / Rust|Done| - |
-|01  |Basic concepts, Function, Loops, Pointers, OOP. |C ++ Beginners - FreeCodeCamp|C++ |Done| [Video](https://www.youtube.com/watch?v=vLnPwxZdW4Y) |
-|02  | Sort Algorithm / Data Structure|            	|C ++      | 	       | [Video](https://www.youtube.com/watch?v=Vv-gs437i2g&list=PLk6CEY9XxSICqQ9wicEpRh3jYNTtSHVOy) - [Video](https://www.youtube.com/watch?v=7tLVMUKLu2s&list=PLk6CEY9XxSIBG2Gv6-d1WE3Uxqx94o5B2)|
-|03  |Space invaders |            	| C++| 	       | | |
-|04  |        	|            	|          | 	       | 
+|01  |Basic concepts, Function, Loops, Pointers, OOP. |C ++ Beginners - FreeCodeCamp|C++ |Done| [Video](https://www.youtube.com/watch?v=vLnPwxZdW4Y)|
+|02  | Sort Algorithm |            	|C ++      | 	  | [Video](https://www.youtube.com/watch?v=Vv-gs437i2g&list=PLk6CEY9XxSICqQ9wicEpRh3jYNTtSHVOy) |
+|03  | Data Structure |            	|C ++      | 	     | [Video](https://www.youtube.com/watch?v=7tLVMUKLu2s&list=PLk6CEY9XxSIBG2Gv6-d1WE3Uxqx94o5B2) |
+|04  | Design Patterns (ES) |            	|   -  | 	| [Video](https://www.youtube.com/watch?v=3qTmBcxGlWk&list=PLJkcleqxxobUJlz1Cm8WYd-F_kckkDvc8) |
+
+
+C++ Lambdas
+https://www.youtube.com/playlist?list=PLs3KjaCtOwSaJfzcaQ5RpcDIx9PTe2bBP
+
+
+(ES)
+Space Invaders C++
+https://www.youtube.com/playlist?list=PLDvxKtjp8t2l-3bihUrliFg_Z5q86xJSk
+
+(ES)
+Spaceship C++
+https://www.youtube.com/playlist?list=PLpOqH6AE0tNj8W0EGpoGG2CEMDJTt4ihZ
+
+(ES)
+Snake   C++
+https://www.youtube.com/playlist?list=PL5C49018FA0EF2EC6
+
+(ES)
+PONG  C++
+https://www.youtube.com/playlist?list=PL6hPvfzEEMDYe_i-Eimz5IAUUd5dzZ8sL
+
 |05  |        	|            	|          | 	       | 
 |06  |        	|            	|          | 	       | 
 |07  |        	|            	|          | 	       | 
