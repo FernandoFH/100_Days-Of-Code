@@ -3,7 +3,6 @@ body {
 }
 
 .container {
-
     display: flex;
     width: 600px;
     height: 40px;
@@ -19,8 +18,6 @@ body {
     margin: auto;
 
     overflow: hidden;
-
-
 }
 
 ul {
