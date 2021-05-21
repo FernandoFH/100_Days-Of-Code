@@ -1,4 +1,4 @@
-#### _Notas que arreglar 
+#### _Notas que arreglar_
 
 #### C++ Weekly - Ep 192 - Stop Using Double Underscores [Here](https://www.youtube.com/watch?v=0vJXQ2VOzEs)
 #### C++ Weekly - Ep 197 - 25 Years of Best Practices [Here](https://www.youtube.com/watch?v=ayIJ4b6z-7g)
@@ -21,9 +21,10 @@ https://www.youtube.com/watch?v=DYz3A9DT-Qc
 _____
 - https://github.com/pezy/CppPrimer
 - https://github.com/fffaraz/awesome-cpp
+- https://github.com/rigtorp/awesome-modern-cpp
 - https://github.com/kubernetes-sigs/application
 
-#### _Notas que arreglar 
+#### _Notas que arreglar_
 
 
 # _100 Days of Code Challenge_
