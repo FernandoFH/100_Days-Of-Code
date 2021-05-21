@@ -1,3 +1,31 @@
+#### _Notas que arreglar 
+
+#### C++ Weekly - Ep 192 - Stop Using Double Underscores [Here](https://www.youtube.com/watch?v=0vJXQ2VOzEs)
+#### C++ Weekly - Ep 197 - 25 Years of Best Practices [Here](https://www.youtube.com/watch?v=ayIJ4b6z-7g)
+#### C++ Weekly - Ep 198 - Surprise Uses For `explicit` Constructors [Here](https://www.youtube.com/watch?v=Q4SXFkTzD28)
+
+https://www.youtube.com/watch?v=DYz3A9DT-Qc
+
+#### Cpp Courses
+- [ ] C++ Programming [Here](https://www.coursera.org/learn/initiation-programmation-cpp)
+- [ ] C++ Orientacion a Objetos [Here](https://www.coursera.org/learn/programmation-orientee-objet-cpp)
+
+#### Cpp RoadMap
+
+- [ ] C++ Programming Tutorials for Beginners [Here](https://simplesnippets.tech/courses/cpp-programming-tutorials-for-beginners/)
+- [ ] C++ Algorithms and Data Structures in 14 Days [Here](https://www.youtube.com/playlist?list=PLB7ZlVMcmjIDsjPQfjxT-_ClgEtr-udS2)
+- [ ] Data Structures & Algorithms [Here](https://simplesnippets.tech/courses/data-structures-algorithms-course/)
+- [ ] Curso avanzado de programación en C/C++ [Here](https://lordpakus.blogspot.com/p/tutorial-de-programacion-cc.html)
+- [ ] Introducción a C++ para Matemáticos y Científicos [Here](https://rrgalvan.github.io/cpp-intro/)
+- [ ] Numerical Recipesin C [Here](http://www.nrbook.com/a/bookcpdf.php) 
+_____
+- https://github.com/pezy/CppPrimer
+- https://github.com/fffaraz/awesome-cpp
+- https://github.com/kubernetes-sigs/application
+
+#### _Notas que arreglar 
+
+
 # _100 Days of Code Challenge_
 
 [Index](https://fernandofh.github.io/100_Days-Of-Code/)
