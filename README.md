@@ -1,11 +1,3 @@
-#### _Notas que arreglar_
-
-#### C++ Weekly - Ep 192 - Stop Using Double Underscores [Here](https://www.youtube.com/watch?v=0vJXQ2VOzEs)
-#### C++ Weekly - Ep 197 - 25 Years of Best Practices [Here](https://www.youtube.com/watch?v=ayIJ4b6z-7g)
-#### C++ Weekly - Ep 198 - Surprise Uses For `explicit` Constructors [Here](https://www.youtube.com/watch?v=Q4SXFkTzD28)
-
-https://www.youtube.com/watch?v=DYz3A9DT-Qc
-
 #### Cpp Courses
 - [ ] C++ Programming [Here](https://www.coursera.org/learn/initiation-programmation-cpp)
 - [ ] C++ Orientacion a Objetos [Here](https://www.coursera.org/learn/programmation-orientee-objet-cpp)
@@ -23,9 +15,6 @@ _____
 - https://github.com/fffaraz/awesome-cpp
 - https://github.com/rigtorp/awesome-modern-cpp
 - https://github.com/kubernetes-sigs/application
-
-#### _Notas que arreglar_
-
 
 # _100 Days of Code Challenge_
 
