@@ -3,6 +3,11 @@
 |Day | Project	|Description	| Language | 	Status | 
 |--- | -------- |---------------|--------- | --------- |  
 |00  |Hello Worlds | Setup Env | Python / Node (js & ts) / Go / C++ / Rust|Done| 
+|01  |  |   |   Go  |Done| 
+
+
+---- 
+---- 
 
 #### Cpp Courses
 - [ ] C++ Programming [Here](https://www.coursera.org/learn/initiation-programmation-cpp)
@@ -22,13 +27,15 @@ _____
 - https://github.com/rigtorp/awesome-modern-cpp
 - https://github.com/kubernetes-sigs/application
 
-# _100 Days of Code Challenge_
+# _Roadmap_
 
 [Index](https://fernandofh.github.io/100_Days-Of-Code/)
 
 [Inspiration](https://github.com/SeshanPillay25/100-days-of-code)
  				
 
+|Day | Project	|Description	| Language | 	Status | 
+|--- | -------- |---------------|--------- | --------- | 
 |01  |Basic concepts, Function, Loops, Pointers, OOP. |C ++ Beginners - FreeCodeCamp|C++ |Done| [Video](https://www.youtube.com/watch?v=vLnPwxZdW4Y)|
 |02  | Sort Algorithm |            	|C ++      | 	Done  | [Video](https://www.youtube.com/watch?v=Vv-gs437i2g&list=PLk6CEY9XxSICqQ9wicEpRh3jYNTtSHVOy) |
 |03  | Data Structure |            	|C ++      | 	   Done  | [Video](https://www.youtube.com/watch?v=7tLVMUKLu2s&list=PLk6CEY9XxSIBG2Gv6-d1WE3Uxqx94o5B2) |
