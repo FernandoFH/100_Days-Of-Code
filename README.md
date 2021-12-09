@@ -1,3 +1,9 @@
+# _100 Days of Code Challenge_
+
+|Day | Project	|Description	| Language | 	Status | 
+|--- | -------- |---------------|--------- | --------- |  
+|00  |Hello Worlds | Setup Env | Python / Node (js & ts) / Go / C++ / Rust|Done| 
+
 #### Cpp Courses
 - [ ] C++ Programming [Here](https://www.coursera.org/learn/initiation-programmation-cpp)
 - [ ] C++ Orientacion a Objetos [Here](https://www.coursera.org/learn/programmation-orientee-objet-cpp)
@@ -22,9 +28,7 @@ _____
 
 [Inspiration](https://github.com/SeshanPillay25/100-days-of-code)
  				
-|Day | Project	|Description	| Language | 	Status | Reference |
-|--- | -------- |---------------|--------- | --------- | --------- | 
-|00  |Hello worlds | Setup Env | Python / Node (js & ts) / GO / C++ / Rust|Done| - |
+
 |01  |Basic concepts, Function, Loops, Pointers, OOP. |C ++ Beginners - FreeCodeCamp|C++ |Done| [Video](https://www.youtube.com/watch?v=vLnPwxZdW4Y)|
 |02  | Sort Algorithm |            	|C ++      | 	Done  | [Video](https://www.youtube.com/watch?v=Vv-gs437i2g&list=PLk6CEY9XxSICqQ9wicEpRh3jYNTtSHVOy) |
 |03  | Data Structure |            	|C ++      | 	   Done  | [Video](https://www.youtube.com/watch?v=7tLVMUKLu2s&list=PLk6CEY9XxSIBG2Gv6-d1WE3Uxqx94o5B2) |
