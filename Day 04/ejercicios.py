@@ -10,6 +10,7 @@ def sum(lista):
         result += i
     return result
 
+
 # Multiplicar de una lista dada 
 def multi(lista):
     result = lista[0]
@@ -19,10 +20,12 @@ def multi(lista):
         i += 1
     return result
 
+
 # Invertir string
 def inversa(string):
     string = string[::-1]
     return string
+
 
 # Es palindromo
 def is_palindromo(string):
@@ -32,6 +35,12 @@ def is_palindromo(string):
     else:
         return False
 
+
+def palindromo(sentence):
+    sentence = str(sentence).lower().replace(' ', '')
+    return sentence == sentence[::-1]
+
+
 # Superposicion de listas
 def superposicion(lista1, lista2):
     for elem in lista1:
@@ -40,6 +49,22 @@ def superposicion(lista1, lista2):
 
     return False
 
+
+# Generar n caracteres 
+def generar_n_caracteres (n, caracter):
+    result = ""
+    for i in range(0, n):
+        result += caracter
+    return result
+
+
+# Generar historoma en Cosola 
+def procedimientio(lista):
+    for i in lista:
+        historama = "*" * i
+        print(f'{historama}')
+
+
 if __name__ == '__main__':
     #lista = [-1,2,10]    
     #print(multi(lista))
@@ -47,11 +72,10 @@ if __name__ == '__main__':
     #string = 'rodar'
     #print(is_palindromo(string))
 
-    lista1 = [1,2,3,4,5]
-    lista2 = [7,8,9,1]
-    print(superposicion(lista1, lista2))
+    #lista1 = [1,2,3,4,5]
+    #lista2 = [7,8,9]
+    #print(superposicion(lista1, lista2))
 
+    #print(generar_n_caracteres(3, 'p'))
 
-  #  def palindromo(sentence):
-  #    sentence = str(sentence).lower().replace(' ', '')
-  # return sentence == sentence[::-1]
+    #procedimientio([4,5,6])
