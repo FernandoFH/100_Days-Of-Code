@@ -3,6 +3,40 @@
 #    from i in range(0, len(lista)):
 #        result *= lista[i]
 
+# numero maximo 
+def max_dos(n1: int,n2: int):
+    """[Funcion que devuelve el numero mayor de dos numeros]
+
+    Args:
+        n1 ([int]): [Primer numero a comparar]
+        n2 ([int]): [Segundo numero a comparar]
+
+    Returns:
+        [n_max]: [Numero mayor de los dos]
+    """
+    if n1 > n2:
+        return n1
+    else:
+        return n2
+
+
+# numero maximo de tres  
+def max_de_tres(n1: int, n2: int, n3: int):
+    """[Funcion que devuelve el numero mayor de tres numeros]
+
+    Args:
+        n1 ([int]): [Primer numero a comparar]
+        n2 ([int]): [Segundo numero a comparar]
+        n3 ([int]): [Tercer numero a comparar]
+
+    Returns:
+        [n_final]: [Numero mayor de los tres]
+    """
+    n_max_dos = max_dos(n1,n2)
+    n_final = max_dos(n_max_dos,n3)
+    
+    return n_final
+
 # Suma de una lista dada 
 def sum(lista):
     result = 0
@@ -36,11 +70,6 @@ def is_palindromo(string):
         return False
 
 
-def palindromo(sentence):
-    sentence = str(sentence).lower().replace(' ', '')
-    return sentence == sentence[::-1]
-
-
 # Superposicion de listas
 def superposicion(lista1, lista2):
     for elem in lista1:
@@ -48,21 +77,6 @@ def superposicion(lista1, lista2):
             return True
 
     return False
-
-
-# Generar n caracteres 
-def generar_n_caracteres (n, caracter):
-    result = ""
-    for i in range(0, n):
-        result += caracter
-    return result
-
-
-# Generar historoma en Cosola 
-def procedimientio(lista):
-    for i in lista:
-        historama = "*" * i
-        print(f'{historama}')
 
 
 if __name__ == '__main__':
@@ -73,9 +87,8 @@ if __name__ == '__main__':
     #print(is_palindromo(string))
 
     #lista1 = [1,2,3,4,5]
-    #lista2 = [7,8,9]
+    #lista2 = [7,8,9,1]
     #print(superposicion(lista1, lista2))
 
-    #print(generar_n_caracteres(3, 'p'))
-
-    #procedimientio([4,5,6])
+    #print(max_dos(1,5))
+    print(max_de_tres(12,4,10))
