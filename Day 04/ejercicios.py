@@ -4,7 +4,7 @@
 #        result *= lista[i]
 
 # numero maximo 
-def max_dos(n1: int,n2: int):
+def max_dos(n1: int, n2: int):
     """[Funcion que devuelve el numero mayor de dos numeros]
 
     Args:
@@ -16,8 +16,11 @@ def max_dos(n1: int,n2: int):
     """
     if n1 > n2:
         return n1
-    else:
-        return n2
+    elif n2 > n1:
+        return n2  
+    elif n1 == n2:
+        raise Exception("Los numeros son iguales")
+    raise Exception("No se puede comparar")
 
 
 # numero maximo de tres  
@@ -36,6 +39,7 @@ def max_de_tres(n1: int, n2: int, n3: int):
     n_final = max_dos(n_max_dos,n3)
     
     return n_final
+
 
 # Suma de una lista dada 
 def sum(lista):
@@ -90,5 +94,5 @@ if __name__ == '__main__':
     #lista2 = [7,8,9,1]
     #print(superposicion(lista1, lista2))
 
-    #print(max_dos(1,5))
-    print(max_de_tres(12,4,10))
+    print(max_dos(5,1))
+    #print(max_de_tres(12,4,10))
