@@ -1,12 +1,20 @@
 # _100 Days of Code Challenge_
 
+### Temas que to Software Developer debe saber
+- Redes computacionales 
+- Arquitectura de computadores 
+- Base de datos 
+- Sistemas Operativos
+- Algoritmos 
+
+
 |Day | Project	|Description	| Language | 	Status | 
 |--- | -------- |---------------|--------- | --------- |  
 |00  |Hello Worlds | Setup Env | Python / Node (js & ts) / Go / C++ / Rust|Done| 
 |01  |  |   |   Go  |Done| 
 
 - [Base Datos](https://github.com/FernandoFH/Base_Datos)
-
+- []
 ---- 
 ---- 
 
