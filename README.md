@@ -10,13 +10,12 @@
 
 |Day | Project	|Description	| Language | 	Status | 
 |--- | -------- |---------------|--------- | --------- |  
-|00  |Hello Worlds | Setup Env | Python / Node (js & ts) / Go / C++ / Rust|Done| 
-|01  |  |   |   Go  |Done| 
+|00  |          |               |          |           |
+|01  |          |               |          |           | 
 
 - [Base Datos](https://github.com/FernandoFH/Base_Datos)
-- []
----- 
----- 
+- [Harvard CS50](./CS50/README.md) : Introduction to Computer Science
+ 
 
 #### Cpp Courses
 - [ ] C++ Programming [Here](https://www.coursera.org/learn/initiation-programmation-cpp)
@@ -39,9 +38,7 @@ _____
 # _Roadmap_
 
 [Index](https://fernandofh.github.io/100_Days-Of-Code/)
-
-[Inspiration](https://github.com/SeshanPillay25/100-days-of-code)
- 				
+				
 
 |Day | Project	|Description	| Language | 	Status | 
 |--- | -------- |---------------|--------- | --------- | 
@@ -145,4 +142,3 @@ _____
 |98  |        	|            	|          | 	       | 
 |99  |        	|            	|          | 	       | 
 |100  |        	|            	|          | 	       | 
-
