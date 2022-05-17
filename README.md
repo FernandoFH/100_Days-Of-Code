@@ -1,44 +1,33 @@
 # _100 Days of Code Challenge_
 
-### Temas que to Software Developer debe saber
+[Index](https://fernandofh.github.io/100_Days-Of-Code/)
+
+### Temas
+
+
+|Description	| Temario  | 	Status | 
+|---------------|--------- | --------- |  
+| Computer Science Fundamentals  |  [Harvard CS50](./CS50/README.md)  |           |
+|               |          |           | 
+
 - Redes computacionales 
 - Arquitectura de computadores 
 - Base de datos 
 - Sistemas Operativos
 - Algoritmos 
 
+- [Base Datos](https://github.com/FernandoFH/Base_Datos)
 
 |Day | Project	|Description	| Language | 	Status | 
 |--- | -------- |---------------|--------- | --------- |  
 |00  |          |               |          |           |
 |01  |          |               |          |           | 
 
-- [Base Datos](https://github.com/FernandoFH/Base_Datos)
-- [Harvard CS50](./CS50/README.md) : Introduction to Computer Science
- 
 
-#### Cpp Courses
-- [ ] C++ Programming [Here](https://www.coursera.org/learn/initiation-programmation-cpp)
-- [ ] C++ Orientacion a Objetos [Here](https://www.coursera.org/learn/programmation-orientee-objet-cpp)
+ _____ 
+ _____ 
 
-#### Cpp RoadMap
 
-- [ ] C++ Programming Tutorials for Beginners [Here](https://simplesnippets.tech/courses/cpp-programming-tutorials-for-beginners/)
-- [ ] C++ Algorithms and Data Structures in 14 Days [Here](https://www.youtube.com/playlist?list=PLB7ZlVMcmjIDsjPQfjxT-_ClgEtr-udS2)
-- [ ] Data Structures & Algorithms [Here](https://simplesnippets.tech/courses/data-structures-algorithms-course/)
-- [ ] Curso avanzado de programación en C/C++ [Here](https://lordpakus.blogspot.com/p/tutorial-de-programacion-cc.html)
-- [ ] Introducción a C++ para Matemáticos y Científicos [Here](https://rrgalvan.github.io/cpp-intro/)
-- [ ] Numerical Recipesin C [Here](http://www.nrbook.com/a/bookcpdf.php) 
-_____
-- https://github.com/pezy/CppPrimer
-- https://github.com/fffaraz/awesome-cpp
-- https://github.com/rigtorp/awesome-modern-cpp
-- https://github.com/kubernetes-sigs/application
-
-# _Roadmap_
-
-[Index](https://fernandofh.github.io/100_Days-Of-Code/)
-				
 
 |Day | Project	|Description	| Language | 	Status | 
 |--- | -------- |---------------|--------- | --------- | 

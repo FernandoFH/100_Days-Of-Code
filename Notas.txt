@@ -1,0 +1,16 @@
+#### Cpp Courses
+- [ ] C++ Programming [Here](https://www.coursera.org/learn/initiation-programmation-cpp)
+- [ ] C++ Orientacion a Objetos [Here](https://www.coursera.org/learn/programmation-orientee-objet-cpp)
+
+#### Cpp RoadMap
+- [ ] C++ Programming Tutorials for Beginners [Here](https://simplesnippets.tech/courses/cpp-programming-tutorials-for-beginners/)
+- [ ] C++ Algorithms and Data Structures in 14 Days [Here](https://www.youtube.com/playlist?list=PLB7ZlVMcmjIDsjPQfjxT-_ClgEtr-udS2)
+- [ ] Data Structures & Algorithms [Here](https://simplesnippets.tech/courses/data-structures-algorithms-course/)
+- [ ] Curso avanzado de programación en C/C++ [Here](https://lordpakus.blogspot.com/p/tutorial-de-programacion-cc.html)
+- [ ] Introducción a C++ para Matemáticos y Científicos [Here](https://rrgalvan.github.io/cpp-intro/)
+- [ ] Numerical Recipesin C [Here](http://www.nrbook.com/a/bookcpdf.php) 
+_____
+- https://github.com/pezy/CppPrimer
+- https://github.com/fffaraz/awesome-cpp
+- https://github.com/rigtorp/awesome-modern-cpp
+- https://github.com/kubernetes-sigs/application
