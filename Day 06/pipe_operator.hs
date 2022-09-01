@@ -9,4 +9,4 @@ filtarParesLista = filter (\x -> (mod x 2) == 0)
 incremetarLista :: [Int] -> [Int]
 incremetarLista = map succ 
 
-
+combinar = incremetarLista . duplicarLista . filtarParesLista
