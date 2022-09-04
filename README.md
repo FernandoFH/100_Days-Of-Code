@@ -20,9 +20,9 @@
 |Day | Project	               |Description     |
 |--- | ----------------------- |----------------|  
 |00  |[Day 0](./Days/Day%2000) | Setup          |
-|01  |[Day 1](./Days/Day%2001) |                | 
-|02  |[Day 2](./Days/Day%2002) |               |
-|03  |[Day 3](./Days/Day%2003) |               | 
-|04  |[Day 4](./Days/Day%2004) |              |
-|05  |[Day 5](./Days/Day%2005) |              |
-|06  |[Day 6](./Days/Day%2006) |              |
+|01  |[Day 1](./Days/Day%2001) | Data Type C++  | 
+|02  |[Day 2](./Days/Day%2002) | Abstract Data Types |
+|03  |[Day 3](./Days/Day%2003) |                | 
+|04  |[Day 4](./Days/Day%2004) | ejercicios python |
+|05  |[Day 5](./Days/Day%2005) | sudoku python  |
+|06  |[Day 6](./Days/Day%2006) | Haskell        |
