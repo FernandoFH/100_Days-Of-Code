@@ -19,7 +19,7 @@
 
 |Day | Project	|Description	  |
 |--- | -------- |---------------|  
-|00  |(Day 0)[./Days/Day%2000] | Setup                |
+|00  |[Day 0](./Days/Day%2000) | Setup                |
 |01  |          |               | 
 |02  |          |               |
 |03  |          |               | 
