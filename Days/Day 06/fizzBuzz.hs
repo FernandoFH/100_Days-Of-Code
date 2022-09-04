@@ -5,5 +5,17 @@
 -- if number is divisible by 3 and 5, print FizzBuzz
 -- otherwise, print the number
 
-module Main where
+fizzBuzz :: Int -> String
+fizzBuzz n = if n `mod` 3 == 0 && n `mod` 5 == 0 then "FizzBuzz"
+             else if n `mod` 3 == 0 then "Fizz"
+             else if n `mod` 5 == 0 then "Buzz"
+             else show n
 
+fizzBuzzL :: Int -> String
+fizzBuzzL n | n `mod` 15 == 0  = "FizzBuzz"
+       | n `mod` 3  == 0  = "Fizz"
+       | n `mod` 5  == 0  = "Buzz"
+       | otherwise        = show n
+
+main :: IO()
+main = mapM_ putStrLn $ map fizzBuzzL [1..100]
