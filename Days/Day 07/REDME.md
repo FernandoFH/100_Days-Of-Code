@@ -47,4 +47,4 @@ item <= item(i+1) Es decir que el tiem que sigue es el primer elemento +1.
 - Listas
 - Tuplas
 - Sets (Conjuntos)
- 
+- Diccionarios
