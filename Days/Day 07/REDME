@@ -42,3 +42,9 @@ No hay predecesores o sucesores.
 Son estructuras que imponen un orden con una regla. Generalmente una regla de orden.
 
 item <= item(i+1) Es decir que el tiem que sigue es el primer elemento +1.
+
+### Colecciones incorporadas en Python
+- Listas
+- Tuplas
+- Sets (Conjuntos)
+ 
