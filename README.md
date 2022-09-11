@@ -17,17 +17,13 @@
 |08  |[Day 8](./Days/Day%2008) | Rust Day on Google Open Source Live |
 
 
-### Rutas
-
-|Description	| Notes    | 	Resources | Status    |
-|---------------|--------- | ------------ | --------- |  
-| Computer Science Fundamentals 2020  | [Harvard CS50](./CS50/README.md) | [Video](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8) | |
-| Clean Code - Uncle Bob   |   [ Software Programming](./Clean_Code/README.md) | [Video](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k) | |
-
 ### Temas
-
 - Redes computacionales 
-- Arquitectura de computadores 
+- [Arquitectura de computadores](https://github.com/FernandoFH/Software_Engineer-Self-Taught)
 - [Base Datos](https://github.com/FernandoFH/Base_Datos)
 - Sistemas Operativos
-- Algoritmos y Estructuras de Datos
+- [Algoritmos y Estructuras de Datos](https://github.com/FernandoFH/Algorithms_Specialization)
+---- 
+
+Programa especializado: Secure Coding Practices
+https://www.coursera.org/specializations/secure-coding-practices#courses
