@@ -21,7 +21,6 @@ Es decir está ordenadas por posición.
 Solo el primer elemento no tiene predecesor
 
 ### Estructuras Jerárquicas
-
 Los árboles pueden tener n números de nieleves hacia abajo o adyacentes. Te encotnrarás con árboles Binarios, Montículos.
 
 ### Ordendas como árbol invertido (raices)
