@@ -5,9 +5,9 @@
 - Zero cost abstractions.
 - Empowering everyone to build reliable and efficient software.
 
-    - Performance
-    - Seguridad
-    - Productividad
+    - Performance & control 
+    - Reliability & safety
+    - Productivity 
 
 ## Instalación
 - [Instalación](https://www.rust-lang.org/tools/install)
@@ -115,10 +115,6 @@
 
     let sq = Rectangle::square(3);
 ```
-#### Investigar
-- Traits
-- Traits bounds
-- Generics
 
 ## Creates
 - Paquete 
@@ -133,16 +129,49 @@
         - Move 
         - Copy
 
+## References & Borrowing
 
+```rust
+    let s1 = String::from("hello");
+    let len = &s1;
+    println!("{}", s1);
+```
 
+#### Tipos de Referencias
+- &T: Referencia a un valor inmutable.(shared)
+- &mut T: Referencia a un valor mutable.(exclusive)
 
+## Testing
+- Funciones marcadas con #[test]
+- Se utiliza macros para realizar las afirmaciones. (assert_eq!, assert_ne!, assert!)
+- Otros atributus:
+    - #[ignore]
+    - #[should_panic]
+    - should_panic(expected = "Mensaje de error")
 
+#### Test Modules 
+- Organizar los tests en modulos.
+- #[cfg(test)]
+
+#### Test Integration
+- Se usa el directorio /tests (al mismo nivel que /src)
+- Compila cada archivo como un crate separado y no necesita #[cfg(test)].
+- Solo se puede testear library crate. 
+
+#### Investigar
+- Traits
+- Traits bounds
+- Generics
+- lifetimes
+- interiores mutability 
+- concurrency
 
 
 ## Adopting Rust on your Team
 
-## 
 - https://rocket.rs/
 - https://actix.rs/
 
 - Should your team adopt the Rust programming language? [Video](https://www.youtube.com/watch?v=Gnp4XP1b82E)
+
+- How to introduce Rust to an existing project [Video](https://www.youtube.com/watch?v=l--5nx_q0_Y)
