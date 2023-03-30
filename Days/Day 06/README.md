@@ -1,2 +1,0 @@
--- https://github.com/FernandoFH/really-small-backpack-example
--- https://www.seas.upenn.edu/~cis1940/fall16/
